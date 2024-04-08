@@ -1,1 +1,1 @@
-# djangoRESTframeworkAccountPasswordManagementWithDocker
+# django REST framework Account Password Management With Docker
